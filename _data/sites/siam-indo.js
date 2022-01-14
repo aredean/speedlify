@@ -1,6 +1,6 @@
 module.exports = {
-	name: "juruwebsite.com", // optional, falls back to object key
-	description: "Juru Website Site",
+	name: "siam-indo.com", // optional, falls back to object key
+	description: "Siam Indo Website",
 	options: {
 		frequency: 60 * 23, // 23 hours
 		// Use "run" if the sites don’t share assets on the same origin
