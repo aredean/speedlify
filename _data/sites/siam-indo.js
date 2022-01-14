@@ -10,7 +10,7 @@ module.exports = {
 		freshChrome: "run"
 	},
 	urls: [
-		"https://www.juruwebsite.com/",
-		"https://www.juruwebsite.com/blog/",
+		"https://siam-indo.com/",
+		"https://siam-indo.com/id/beranda",
 	]
 };
